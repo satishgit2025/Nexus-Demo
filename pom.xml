@@ -10,8 +10,8 @@
 	</parent>
 	<groupId>com.javaproject</groupId>
 	<artifactId>database_service_project</artifactId>
-	<version>0.0.6</version>
-	<name>database_service_project</name>
+	<version>1.1.1</version>
+	<name>satish-nexus-project</name>
 	<description>Project for Spring Boot</description>
 	<packaging>jar</packaging>
 	<properties>
