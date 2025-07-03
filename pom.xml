@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.javaproject</groupId>
-	<artifactId>database_service_project</artifactId>
-	<version>1.1.1</version>
+	<artifactId>satish-nexus-project</artifactId>
+	<version>1.1.2</version>
 	<name>satish-nexus-project</name>
 	<description>Project for Spring Boot</description>
 	<packaging>jar</packaging>
